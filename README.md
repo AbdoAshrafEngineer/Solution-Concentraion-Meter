@@ -1,4 +1,4 @@
-# Solution-Concentraion-Meter
+# Solution-Concentration-Meter
 
 We are developing a concentration meter that accurately measures substance concentrations in solutions. The device uses a single Printed Circuit Board (PCB) with an ESP32 microcontroller, integrating several key functions:
     Light-based Measurement: A (Laser) emits light through the solution, which is detected by a Light Dependent Resistor (LDR) for measurement.
